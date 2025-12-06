@@ -37,7 +37,7 @@ app.get("/", (req, res) => {
     status: "OK",
     message: "Servidor del Agente FAQ desplegado correctamente.",
     api_version: "v1",
-    agent: "María, Asistente TechFuture Software",
+    agent: "Charly, Asistente TechFuture Software",
     modelo: agentConfig.model,
   });
 });
