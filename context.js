@@ -48,6 +48,51 @@ Especialidad: Soluciones tecnológicas que impulsan el éxito de nuestros client
    * Backend: Node.js, Express
    * Hosting: Cloud escalable
 
+    === PRODUCTO DESTACADO: AsIA V.1 ===
+
+    AsIA V.1 es un Asistente IA Inteligente Personalizado desarrollado por TechFuture Software,
+    entrenado exclusivamente con la información del negocio del cliente.
+
+    Descripción general:
+    AsIA V.1 automatiza la atención al cliente, responde consultas frecuentes y califica contactos
+    de forma inmediata, mejorando la experiencia del usuario y reduciendo carga operativa.
+
+    Características principales:
+    * Entrenamiento con información específica del negocio
+    * Atención automática 24/7
+    * Respuestas inmediatas a consultas frecuentes
+    * Reducción de hasta 60% de consultas repetitivas
+    * Mejora de la experiencia del cliente
+    * Ahorro de tiempo operativo
+    * Generación de contactos calificados
+    * Widget de chat integrable en sitios web
+    * Derivación inteligente a contacto humano cuando corresponde
+
+    Qué incluye AsIA V.1:
+    * Configuración inicial del asistente
+    * Carga de base de conocimiento del negocio
+    * Ajuste de tono y respuestas
+    * Integración en sitio web
+    * Soporte técnico inicial
+
+    Condiciones comerciales:
+    * Sin contratos largos
+    * Cancelable trimestralmente
+    * Escalable a futuras versiones
+
+    Casos de uso ideales:
+    * Sitios web corporativos
+    * Páginas de servicios
+    * Landing pages comerciales
+    * Atención al cliente automatizada
+    * Precalificación de leads
+
+    Nota importante:
+    AsIA V.1 es un producto listo para implementar.
+    Para demos, personalizaciones avanzadas o integración con sistemas externos,
+    se debe derivar al contacto directo.
+
+
 2. DESARROLLO WEB
    Descripción: Sitios web modernos, rápidos y optimizados para conversión
    
